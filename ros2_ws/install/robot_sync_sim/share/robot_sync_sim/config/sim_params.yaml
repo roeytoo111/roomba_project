@@ -1,0 +1,26 @@
+/**:
+  ros__parameters:
+    leader:
+      linear_speed: 1.2
+      drop_interval_m: 2.0
+      drop_behind_m: 0.32
+      progress_mode: "full_path"
+      cmd_vel_forward_sign: 1.0
+      max_drops: 2
+    follower:
+      goal_tolerance_m: 0.12
+      vacuum_service: "/robot_b/activate_vacuum"
+      kp_linear: 2.8
+      kp_angular: 3.0
+      max_linear: 1.5
+      max_angular: 2.0
+      align_threshold_rad: 0.35
+      cmd_vel_forward_sign: 1.0
+      grasping_topic: "/robot_b/grasping"
+      grasp_timeout_s: 5.0
+      post_grasp_hold_s: 0.5
+      max_pickups: 2
+      post_mission_vacuum_duration_s: 5.0
+      b_spawn_x: -1.0
+      b_spawn_y: 0.0
+      vacuum_forward_offset_m: 0.14

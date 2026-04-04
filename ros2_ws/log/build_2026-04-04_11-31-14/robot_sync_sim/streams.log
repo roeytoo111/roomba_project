@@ -1,0 +1,23 @@
+[0.907s] Invoking command in '/home/roey/assaf_project/ros2_ws/src/robot_sync_sim': PYTHONPATH=/home/roey/assaf_project/ros2_ws/build/robot_sync_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roey/assaf_project/ros2_ws/install/robot_sync_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_sync_sim build --build-base /home/roey/assaf_project/ros2_ws/build/robot_sync_sim/build install --record /home/roey/assaf_project/ros2_ws/build/robot_sync_sim/install.log --single-version-externally-managed install_data
+[1.250s] running egg_info
+[1.250s] writing ../../build/robot_sync_sim/robot_sync_sim.egg-info/PKG-INFO
+[1.251s] writing dependency_links to ../../build/robot_sync_sim/robot_sync_sim.egg-info/dependency_links.txt
+[1.251s] writing entry points to ../../build/robot_sync_sim/robot_sync_sim.egg-info/entry_points.txt
+[1.251s] writing requirements to ../../build/robot_sync_sim/robot_sync_sim.egg-info/requires.txt
+[1.251s] writing top-level names to ../../build/robot_sync_sim/robot_sync_sim.egg-info/top_level.txt
+[1.253s] reading manifest file '../../build/robot_sync_sim/robot_sync_sim.egg-info/SOURCES.txt'
+[1.254s] writing manifest file '../../build/robot_sync_sim/robot_sync_sim.egg-info/SOURCES.txt'
+[1.254s] running build
+[1.255s] running build_py
+[1.255s] running install
+[1.255s] running install_lib
+[1.256s] running install_data
+[1.257s] copying config/sim_params.yaml -> /home/roey/assaf_project/ros2_ws/install/robot_sync_sim/share/robot_sync_sim/config
+[1.257s] running install_egg_info
+[1.259s] removing '/home/roey/assaf_project/ros2_ws/install/robot_sync_sim/lib/python3.10/site-packages/robot_sync_sim-1.0.0-py3.10.egg-info' (and everything under it)
+[1.259s] Copying ../../build/robot_sync_sim/robot_sync_sim.egg-info to /home/roey/assaf_project/ros2_ws/install/robot_sync_sim/lib/python3.10/site-packages/robot_sync_sim-1.0.0-py3.10.egg-info
+[1.260s] running install_scripts
+[1.287s] Installing follower_node script to /home/roey/assaf_project/ros2_ws/install/robot_sync_sim/lib/robot_sync_sim
+[1.287s] Installing leader_node script to /home/roey/assaf_project/ros2_ws/install/robot_sync_sim/lib/robot_sync_sim
+[1.287s] writing list of installed files to '/home/roey/assaf_project/ros2_ws/build/robot_sync_sim/install.log'
+[1.314s] Invoked command in '/home/roey/assaf_project/ros2_ws/src/robot_sync_sim' returned '0': PYTHONPATH=/home/roey/assaf_project/ros2_ws/build/robot_sync_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roey/assaf_project/ros2_ws/install/robot_sync_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_sync_sim build --build-base /home/roey/assaf_project/ros2_ws/build/robot_sync_sim/build install --record /home/roey/assaf_project/ros2_ws/build/robot_sync_sim/install.log --single-version-externally-managed install_data
