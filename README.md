@@ -58,6 +58,4 @@ Configuration defaults live in `config/sim_params.yaml`.
 - Trash announcements: custom string topic from leader; follower parses poses.
 - Vacuum: `/robot_b/activate_vacuum` (Bool) and related Gazebo vacuum gripper topics.
 
-## License
 
-Apache-2.0 (see `package.xml`).
